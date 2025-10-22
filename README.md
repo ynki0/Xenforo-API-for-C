@@ -37,6 +37,3 @@ namespace Xenforo.Test
     }
 }
 ```
-
-## License
-MIT
