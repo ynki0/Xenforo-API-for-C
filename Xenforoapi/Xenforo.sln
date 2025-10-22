@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xenforo", "Xenforo\Xenforo.csproj", "{352A53C2-5E9E-491B-B1FC-4EEFE5F430A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xenforo.Test", "Xenforo.Test\Xenforo.Test.csproj", "{6EB44804-2F1E-4970-8DAF-D0926B5C23B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352A53C2-5E9E-491B-B1FC-4EEFE5F430A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A53C2-5E9E-491B-B1FC-4EEFE5F430A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A53C2-5E9E-491B-B1FC-4EEFE5F430A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A53C2-5E9E-491B-B1FC-4EEFE5F430A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB44804-2F1E-4970-8DAF-D0926B5C23B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB44804-2F1E-4970-8DAF-D0926B5C23B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB44804-2F1E-4970-8DAF-D0926B5C23B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB44804-2F1E-4970-8DAF-D0926B5C23B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E425B9-C0DB-441B-9E11-99192C9A489B}
+	EndGlobalSection
+EndGlobal
